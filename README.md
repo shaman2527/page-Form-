@@ -1,3 +1,5 @@
 # page-Form-Login-Register
 formulario LoginRegistro, 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+![Screenshot](![image](https://user-images.githubusercontent.com/84341975/126545345-f089fd7b-a625-4462-9878-96a83d9a6ddd.png)
+)
